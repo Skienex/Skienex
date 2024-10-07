@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Mobile App Developent with Flutter**
 
-- 📫 How to reach me **skienexy@gmail.com**
-
 <p align="left">
 </p>
 
